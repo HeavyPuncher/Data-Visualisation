@@ -1,0 +1,15 @@
+References
+
+-https://www.samplequestions.com/types-of-research-questions.html - 11th December
+https://www.kaggle.com/rush4ratio/video-game-sales-with-ratings - Thu, 21 Nov 2019, 3:20 PM
+-https://en.wikipedia.org/wiki/Pok%C3%A9mon_(video_game_series) - 12th December
+-https://www.computerhope.com/issues/ch001356.htm - 12th December 12:29 PM
+-https://medium.com/datadriveninvestor/data-preprocessing-for-machine-learning-188e9eef1d2c - 12th December 12:59 PM
+-https://rpubs.com/vh42720/vgsales - 13th December 3:10 AM
+https://www.bbc.co.uk/news/technology-46746593 - 13th December
+-https://nces.ed.gov/nceskids/help/user_guide/graph/whentouse.asp -13th December - 10:21A
+https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.DataFrame.plot.bar.html   [20:14 Thurs 7 December]
+
+NOTES
+-Deleted 2020 data (make up artist game)
+-Deleted 2017 data
